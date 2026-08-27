@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Section -->
-<img src="./dance-chibi.gif" width="100%" alt="Waguri Kaoruko" style="border-radius: 12px; filter: contrast(110%) brightness(95%); margin-bottom: 1.5rem;" />
+<img src="./dance-chibi.gif" alt="Kim's Hero Animation" style="max-width: 380px; width: 100%; height: auto; object-fit: contain; border-radius: 12px; filter: contrast(110%) brightness(95%); margin-bottom: 1.5rem;" />
 
 <h1 align="center" style="font-weight: 600; margin-bottom: 0.5rem;">
   kimhie <span style="color: #6c5ce7; font-weight: 300;">//</span> dev
