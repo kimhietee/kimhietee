@@ -1,17 +1,60 @@
-# 💫 About Me:
-Software Developer specializing in Python, Game and Web Development. Building interactive applications and passion for game development. Currently working on my game. Looking for passionate artists for my game.
+<div align="center">
 
+<!-- Hero Section -->
+<img src="./assets/output.gif" width="100%" alt="Ren's Hero Animation" style="border-radius: 12px; filter: contrast(110%) brightness(95%); margin-bottom: 1.5rem;" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kimhie.tee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kimhietee)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kimhietee1004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:teekimhie@gmail.com) 
+<h1 align="center" style="font-weight: 600; margin-bottom: 0.5rem;">
+  ren <span style="color: #d362f9; font-weight: 300;">//</span> renbkna
+</h1>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+<p align="center" style="color: #888888; font-size: 0.95rem; margin-bottom: 1.5rem;">
+  <samp>&#10216; Hi. &#10217;</samp>
+</p>
 
-### 🐍 My GitHub Contributions Snake
+<!-- Social Badges -->
+<p align="center" style="margin-bottom: 2.5rem;">
+  <a href="https://discord.com/users/303901271235100673" target="_blank">
+    <img src="https://img.shields.io/badge/discord-111111?style=flat-square&logo=discord&logoColor=d362f9" alt="Discord Profile" />
+  </a>
+  <a href="mailto:git.squash698@passinbox.com">
+    <img src="https://img.shields.io/badge/email-111111?style=flat-square&logo=gmail&logoColor=d362f9" alt="Email Contact" style="margin-left: 6px;" />
+  </a>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-  <img alt="GitHub Contribution Snake" src="https://githubusercontent.com" />
-</picture>
+<!-- Tech Stack -->
+<h3 align="center" style="margin-bottom: 1rem;"><samp>— stack —</samp></h3>
+<p align="center" style="max-width: 500px; line-height: 2;">
+  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=d362f9" height="28" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=d362f9" height="28" alt="Python" style="margin: 0 4px;" />
+  <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=d362f9" height="28" alt="Rust" />
+  <br />
+  <img src="https://img.shields.io/badge/Svelte-111111?style=flat-square&logo=svelte&logoColor=d362f9" height="28" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Tauri-111111?style=flat-square&logo=tauri&logoColor=d362f9" height="28" alt="Tauri" style="margin: 0 4px;" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=d362f9" height="28" alt="TypeScript" />
+</p>
+
+<!-- Projects Grid -->
+<h3 align="center" style="margin-top: 2.5rem; margin-bottom: 1.5rem;"><samp>— projects —</samp></h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 900px; margin-bottom: 2.5rem;">
+  <a href="https://github.com/renbkna/mikumikucrawler">
+    <img src="https://github-readme-stats-renbkna.vercel.app/api/pin/?username=renbkna&repo=mikumikucrawler&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" alt="mikumikucrawler repository" />
+  </a>
+  <a href="https://github.com/renbkna/tyrian-night">
+    <img src="https://github-readme-stats-renbkna.vercel.app/api/pin/?username=renbkna&repo=tyrian-night&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" alt="tyrian-night repository" />
+  </a>
+  <a href="https://github.com/renbkna/yt-dlp-ui">
+    <img src="https://github-readme-stats-renbkna.vercel.app/api/pin/?username=renbkna&repo=yt-dlp-ui&bg_color=111111&title_color=d362f9&text_color=999999&icon_color=d362f9&border_color=222222&show_icons=true" alt="yt-dlp-ui repository" />
+  </a>
+</div>
+
+<!-- Activity & Contribution Visuals -->
+<div style="margin-bottom: 1.5rem;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=renbkna&bg_color=00000000&color=d362f9&line=d362f9&point=ffffff&hide_border=true&hide_title=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=renbkna&bg_color=00000000&color=d362f9&line=d362f9&point=ffffff&hide_border=true&hide_title=true" width="100%" alt="Ren's GitHub Activity Graph" />
+  </picture>
+</div>
+
+<img src="https://github.com/renbkna/renbkna/blob/output/github-contribution-grid-snake.svg" width="100%" style="opacity: 0.9; max-width: 850px;" alt="GitHub Contributions Snake Animation" />
+
+</div>
