@@ -15,8 +15,3 @@ Software Developer specializing in Python, Game and Web Development. Building in
   <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
   <img alt="GitHub Contribution Snake" src="https://githubusercontent.com" />
 </picture>
-</br>
-  ## 💰
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kimhietee) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
