@@ -1,5 +1,6 @@
 <div align="center">
 
+<!-- Hero Section -->
 <img src="./dance-chibi.gif" alt="Kim's Hero Animation" style="width: 100%; max-width: 850px; height: 180px; object-fit: cover; object-position: center; border-radius: 12px; filter: contrast(110%) brightness(95%); margin-bottom: 1.5rem;" />
 
 <h1 align="center" style="font-weight: 600; margin-bottom: 0.5rem;">
@@ -10,10 +11,12 @@
   <samp>&#10216; Hi. &#10217;</samp>
 </p>
 
+<!-- Terminal Status Bar -->
 <div align="center" style="margin-bottom: 2.5rem;">
   <code>&gt; Currently building: a mobile jumping game with obstacles</code>
 </div>
 
+<!-- Tech Stack -->
 <h3 align="center" style="margin-bottom: 1rem;"><samp>— stack —</samp></h3>
 <p align="center" style="max-width: 500px; line-height: 2;">
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=6c5ce7" height="28" alt="Python" />
@@ -25,6 +28,7 @@
   <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=6c5ce7" height="28" alt="MySQL" style="margin: 8px 0 0 4px;" />
 </p>
 
+<!-- Projects Grid -->
 <h3 align="center" style="margin-top: 2.5rem; margin-bottom: 1.5rem;"><samp>— projects —</samp></h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; max-width: 900px; margin-bottom: 2.5rem;">
   <a href="https://github.com/kimhietee/Game">
@@ -35,22 +39,24 @@
   </a>
 </div>
 
-<!-- Stable Alternative: Profile Details -->
+<!-- Overview Stats -->
 <h3 align="center" style="margin-top: 2.5rem; margin-bottom: 1.5rem;"><samp>— overview —</samp></h3>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimhietee&theme=tokyonight" alt="Profile Details" style="max-width: 850px; width: 100%; margin-bottom: 1.5rem;" />
+  <img src="https://github-readme-stats.shion.dev/api?username=kimhietee&show_icons=true&bg_color=111111&title_color=6c5ce7&text_color=999999&icon_color=6c5ce7&hide_border=true" alt="GitHub Stats" style="max-width: 850px; width: 100%; margin-bottom: 1.5rem;" />
 </div>
 
+<!-- Streak & Languages -->
 <h3 align="center" style="margin-top: 2.5rem; margin-bottom: 1.5rem;"><samp>— stats —</samp></h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimhietee&amp;theme=tokyonight&amp;hide_border=true&amp;background=111111&amp;ring=6c5ce7&amp;fire=6c5ce7&amp;currStreakNum=6c5ce7&amp;currStreakLabel=6c5ce7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimhietee&hide_border=true&background=111111&ring=6c5ce7&fire=6c5ce7&currStreakNum=6c5ce7&sideNums=6c5ce7&currStreakLabel=999999&sideLabels=999999&dates=888888" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kimhietee&amp;theme=tokyonight&amp;bg_color=111111&amp;title_color=6c5ce7&amp;text_color=999999&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kimhietee&bg_color=111111&title_color=6c5ce7&text_color=999999&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 <br/>
 
+<!-- Snake Animation -->
 <div align="center" style="margin-top: 2rem;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimhietee/kimhietee/output/github-contribution-grid-snake-dark.svg">
@@ -61,6 +67,7 @@
 
 <br/>
 
+<!-- Views & Support -->
 <div align="center" style="margin-top: 2rem;">
   <a href="https://visitcount.itsvg.in">
     <img src="https://komarev.com/ghpvc/?username=kimhietee&amp;icon=0&amp;color=6c5ce7" alt="Profile Views" />
