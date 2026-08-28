@@ -35,9 +35,10 @@
   </a>
 </div>
 
-<h3 align="center" style="margin-top: 2.5rem; margin-bottom: 1.5rem;"><samp>— activity —</samp></h3>
+<!-- Stable Alternative: Profile Details -->
+<h3 align="center" style="margin-top: 2.5rem; margin-bottom: 1.5rem;"><samp>— overview —</samp></h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimhietee&bg_color=111111&color=6c5ce7&line=6c5ce7&point=ffffff&area=true&hide_border=true&hide_title=true" alt="Activity Graph" style="max-width: 850px; width: 100%; margin-bottom: 1.5rem;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimhietee&theme=tokyonight" alt="Profile Details" style="max-width: 850px; width: 100%; margin-bottom: 1.5rem;" />
 </div>
 
 <h3 align="center" style="margin-top: 2.5rem; margin-bottom: 1.5rem;"><samp>— stats —</samp></h3>
