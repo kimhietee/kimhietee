@@ -42,7 +42,7 @@
 <!-- Overview Stats -->
 <h3 align="center" style="margin-top: 2.5rem; margin-bottom: 1.5rem;"><samp>🎭 overview 🎭</samp></h3>
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/?username=kimhietee&show_icons=true&bg_color=111111&title_color=6c5ce7&text_color=999999&icon_color=6c5ce7&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" style="max-width: 500px; width: 100%; margin-bottom: 1.5rem;" />
+  <img src="https://github-readme-stats.shion.dev/api/?username=kimhietee&show_icons=true&bg_color=111111&title_color=6c5ce7&text_color=999999&icon_color=6c5ce7&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" style="max-width: 300px; width: 100%; margin-bottom: 1.5rem;" />
 </div>
 
 <!-- Streak & Languages -->
