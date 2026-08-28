@@ -46,11 +46,6 @@
 </div>
 <br/>
 
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kimhietee&amp;theme=dracula&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4" alt="Trophies" />
-</div>
-
 <!-- Snake Animation -->
 <div align="center" style="margin-top: 2rem;">
   <picture>
